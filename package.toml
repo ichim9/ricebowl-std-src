@@ -1,0 +1,2 @@
+[packages]
+ricebowl = {version=0,tar="https:://github.com/Ichim9/ricebowl"}
